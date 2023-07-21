@@ -33,7 +33,4 @@ models:
         tests:
           - accepted_values:
               values:
-                ["placed", "shipped", "completed",
-                "return_pending",
-                "returned"]
-                x
+                ["placed", "shipped", "completed", "return_pending", "returned"]
