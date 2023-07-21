@@ -34,5 +34,5 @@ models:
           - accepted_values:
               values:
                 ["placed", "shipped", "completed",
-                # "return_pending",
+                "return_pending",
                 "returned"]
